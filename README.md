@@ -2,7 +2,7 @@
 
 The purpose of this library is to provide the easiest way to display data from sqlite database with the Load more functionality using asynchronous methods.  
 
-
+Preview: https://github.com/spapapan/infinite_scroll_list_view/blob/main/books_infinite_list.mp4
 
 
 To impelement this library follow the next steps:
